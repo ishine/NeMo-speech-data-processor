@@ -132,4 +132,3 @@ from sdp.processors.toloka.create_sentence_set import CreateSentenceSet
 from sdp.processors.toloka.create_task_set import CreateTolokaTaskSet
 from sdp.processors.toloka.download_responses import GetTolokaResults
 from sdp.processors.toloka.reject_if import RejectIfBanned
-from sdp.processors.IPL.ipl_processors import TrainingCommandGenerator
