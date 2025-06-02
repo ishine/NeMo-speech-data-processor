@@ -1,1 +1,1 @@
-nemo_run
+nemo_run # pip install nemo_run
